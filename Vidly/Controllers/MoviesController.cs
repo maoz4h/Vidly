@@ -18,7 +18,11 @@ namespace Vidly.Controllers
             var customers = new List<Customer>
             {
                 new Customer() {Name = "Customer 1"},
-                new Customer() {Name = "Customer 2"}
+                new Customer() {Name = "Customer 2"},
+                new Customer() {Name = "Customer 3"},
+                new Customer() {Name = "Customer 4"},
+                new Customer() {Name = "Customer 5"},
+                new Customer() {Name = "Customer 6"}
             };
 
             var viewModel = new RandomMovieViewModel
