@@ -112,3 +112,4 @@ C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResour
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
