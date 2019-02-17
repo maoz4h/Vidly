@@ -106,7 +106,6 @@ C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInp
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.pdb
-C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
@@ -118,3 +117,4 @@ C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfM
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
+C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
