@@ -113,3 +113,5 @@ C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubsc
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
