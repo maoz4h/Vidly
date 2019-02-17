@@ -102,8 +102,10 @@ C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\bin\System.Diagnostics.DiagnosticSource.xml
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
