@@ -115,3 +115,4 @@ C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMe
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
 C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+C:\dev\GitProjects\ASP.Net MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
